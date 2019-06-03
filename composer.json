@@ -44,7 +44,7 @@
         "james-heinrich/getid3": "1.9.17",
         "jdorn/sql-formatter": "1.2.17",
         "lcobucci/jwt": "3.2.5",
-        "league/flysystem": "1.0.51",
+        "league/flysystem": "1.0.52",
         "league/flysystem-aws-s3-v3": "1.0.22",
         "league/oauth2-server": "7.3.3",
         "nyholm/psr7": "1.1.0",
