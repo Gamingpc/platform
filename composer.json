@@ -78,7 +78,7 @@
         "symfony/property-access": "4.2.8",
         "symfony/property-info": "4.2.8",
         "symfony/psr-http-message-bridge": "1.2.0",
-        "symfony/routing": "4.2.8",
+        "symfony/routing": "4.3.0",
         "symfony/serializer": "4.2.8",
         "symfony/swiftmailer-bundle": "3.2.6",
         "symfony/templating": "4.2.8",
