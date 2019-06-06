@@ -87,7 +87,7 @@
         "symfony/validator": "4.2.8",
         "symfony/yaml": "4.2.8",
         "twig/extensions": "1.5.4",
-        "twig/twig": "2.9.0",
+        "twig/twig": "2.11.2",
         "voku/stop-words": "2.0.1"
     },
     "require-dev": {
